@@ -6,7 +6,7 @@ Before running the application, follow these steps:
 * Create a database named "hw4" with username "postgres" and password "a"
 <br>
 
-For starting the backend open the terminal and issue the following commands:
+For starting the backend, open the terminal and issue the following commands:
 * npm install
 * node server
 
